@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>如何写博客</title>
-      <link href="/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
+      <title>开始学习搭建个人博客</title>
+      <link href="/2022/11/09/2022-11-09%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/11/09/2022-11-09%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="首先-建设一个网站需要先准备些什么"><a href="#首先-建设一个网站需要先准备些什么" class="headerlink" title="首先,建设一个网站需要先准备些什么?"></a>首先,建设一个网站需要先准备些什么?</h1><ol><li>购买域名(阿里云)<br> 1a why? 据说是因为国内外服务器速度差异很大,为了网站运行速度,需要国内的域名<br> 1b how? <pre><code> 1b1 我先买了一个1年的域名 www.hihzy.online  1b2 然后利用vercel开展下一步(vercel起到了类似托管的作用,它将git的仓库接手过来,再利用国内域名连接。目前觉得像是一个中间商的形象)</code></pre></li><li>下载安装node.js</li><li>注册github账号<br> 3a新建仓库(这个仓库将会提供博客所需的资源)<pre><code> 3a1编辑git中与云同步相关的设置(有些复杂,无法回忆)</code></pre></li><li>下载安装vscode</li><li></li></ol><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><ol><li><a href="https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0</a></li><li><a href="https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a">https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a</a></li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="初心-让知识自由生长"><a href="#初心-让知识自由生长" class="headerlink" title="初心: 让知识自由生长"></a>初心: 让知识自由生长</h1>]]></content>
       
       
       
@@ -30,11 +30,11 @@
     
     
     <entry>
-      <title>开始学习搭建个人博客</title>
-      <link href="/2022/11/09/2022-11-09%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2022/11/09/2022-11-09%20%E5%BC%80%E5%A7%8B%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      <title>如何写博客</title>
+      <link href="/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="初心-让知识自由生长"><a href="#初心-让知识自由生长" class="headerlink" title="初心: 让知识自由生长"></a>初心: 让知识自由生长</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="首先-建设一个网站需要先准备些什么"><a href="#首先-建设一个网站需要先准备些什么" class="headerlink" title="首先,建设一个网站需要先准备些什么?"></a>首先,建设一个网站需要先准备些什么?</h1><ol><li>购买域名(阿里云)<br> 1a why? 据说是因为国内外服务器速度差异很大,为了网站运行速度,需要国内的域名<br> 1b how? <pre><code> 1b1 我先买了一个1年的域名 www.hihzy.online  1b2 然后利用vercel开展下一步(vercel起到了类似托管的作用,它将git的仓库接手过来,再利用国内域名连接。目前觉得像是一个中间商的形象)</code></pre></li><li>下载安装node.js</li><li>注册github账号<br> 3a新建仓库(这个仓库将会提供博客所需的资源)<pre><code> 3a1编辑git中与云同步相关的设置(有些复杂,无法回忆)</code></pre></li><li>下载安装vscode</li><li></li></ol><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><ol><li><a href="https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0</a></li><li><a href="https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a">https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a</a></li><li></li></ol>]]></content>
       
       
       
