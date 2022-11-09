@@ -8,12 +8,12 @@
       <link href="/2022/11/09/book_%E5%8F%8D%E8%84%86%E5%BC%B1/"/>
       <url>/2022/11/09/book_%E5%8F%8D%E8%84%86%E5%BC%B1/</url>
       
-        <content type="html"><![CDATA[<ul><li>[u] [[📚lib_overview|#library]]</li></ul><p>现在是 <code>=date(now)</code>，距离第一次看《[[book_反脆弱]]》已经过去了<code>=(date(today)-date(2022-07-28)).days</code>天。</p><p>此刻有什么新[[#想法]]呢？</p><h2 id="反脆弱"><a href="#反脆弱" class="headerlink" title="反脆弱"></a>反脆弱</h2><p>来自::[[books_阅读_看板]]<br>UID::202206051008<br>关键词:: #library #文献 </p><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><h3 id="噪声、干扰与数据诱导"><a href="#噪声、干扰与数据诱导" class="headerlink" title="噪声、干扰与数据诱导"></a>噪声、干扰与数据诱导</h3><p>有一种过滤式选择破坏了整个科研精神，让丰富的数据变得对知识生产极其有害。更多的数据意味着更多的信息，这句话并没有错，但是也意味着更多的虚假信息。我们发现，越来越少的论文会再版重印，许多教科书，比如心理学课本，早就需要重新修订了。至于经济学，还是别提它了。你很难信任许多统计导向的科学一尤其是当研究人员承受压力，必须为了自己的职业发表论文。然而，这一切却打着“推动知识进步”的旗号。<br>回想一下副现象的概念，这是现实生活和图书馆之间的区别。与那些看到真实事件的发展过程，以观察现实生活的一般顺序看历史的人相比，从图书馆的角度看历史的人一定会看到更多具有欺骗性的关系。他会被更多的副现象所欺骗，其中之一便是多余数据而非真实信号带来的直接结果。<br>受数据愚弄的效应如今愈演愈烈。有一个被称为“[[大数据]]”的讨厌现象，研究者们将过滤式选择用到了大数据中。现代化提供了太多的变量（但每个变量的信息却太少），而虚假统计关系的数量增长要比真实信息快得多，因为噪声是凸性的而信号是凹性的。<br>我们将越来越多地看到，数据只能真正提供以否定法界定的知识一它可以有效地用于揭穿，而非确认某种观点。</p><p>我觉得反脆弱=坚韧，英文在O前面加个非O就代表反义词了，像是二极管，中文的话O的近义词和反义词很多，像是网状结构。我不知道孰优孰劣，我觉得在输入信息时英文更有优势，输出信息时中文更有优势。</p><hr><p>2022-11-09 困了,以后再写…</p>]]></content>
+        <content type="html"><![CDATA[<ul><li>[u] [[📚lib_overview|#library]]</li></ul><p>现在是 <code>=date(now)</code>，距离第一次看《[[book_反脆弱]]》已经过去了<code>=(date(today)-date(2022-07-28)).days</code>天。</p><p>此刻有什么新[[#想法]]呢？</p><h2 id="反脆弱"><a href="#反脆弱" class="headerlink" title="反脆弱"></a>反脆弱</h2><p>来自::[[books_阅读_看板]]<br>UID::202206051008<br>关键词:: #library #文献 </p><h2 id="想法"><a href="#想法" class="headerlink" title="想法"></a>想法</h2><h3 id="噪声、干扰与数据诱导"><a href="#噪声、干扰与数据诱导" class="headerlink" title="噪声、干扰与数据诱导"></a>噪声、干扰与数据诱导</h3><p>有一种过滤式选择破坏了整个科研精神，让丰富的数据变得对知识生产极其有害。更多的数据意味着更多的信息，这句话并没有错，但是也意味着更多的虚假信息。我们发现，越来越少的论文会再版重印，许多教科书，比如心理学课本，早就需要重新修订了。至于经济学，还是别提它了。你很难信任许多统计导向的科学一尤其是当研究人员承受压力，必须为了自己的职业发表论文。然而，这一切却打着“推动知识进步”的旗号。<br>回想一下副现象的概念，这是现实生活和图书馆之间的区别。与那些看到真实事件的发展过程，以观察现实生活的一般顺序看历史的人相比，从图书馆的角度看历史的人一定会看到更多具有欺骗性的关系。他会被更多的副现象所欺骗，其中之一便是多余数据而非真实信号带来的直接结果。<br>受数据愚弄的效应如今愈演愈烈。有一个被称为“[[大数据]]”的讨厌现象，研究者们将过滤式选择用到了大数据中。现代化提供了太多的变量（但每个变量的信息却太少），而虚假统计关系的数量增长要比真实信息快得多，因为噪声是凸性的而信号是凹性的。<br>我们将越来越多地看到，数据只能真正提供以否定法界定的知识一它可以有效地用于揭穿，而非确认某种观点。</p><p>我觉得反脆弱=坚韧，英文在O前面加个非O就代表反义词了，像是二极管，中文的话O的近义词和反义词很多，像是网状结构。我不知道孰优孰劣，我觉得在输入信息时英文更有优势，输出信息时中文更有优势。</p><hr><p>2022-11-09 困了,以后再写…<br>2022-11-09 学会了在blog中上传本地图片。 // help: 如何上传图片. 参考自:<a href="https://www.cnblogs.com/hugochen1024/p/12570656.html">https://www.cnblogs.com/hugochen1024/p/12570656.html</a></p><ol><li>需要在source(与link,tags,music同处一个位置的source文件夹)下新建一个图片文件夹,假设文件夹为x</li><li>利用 ![] + (x/某图.jpg) 可以调用本地图片<br><img src="/images/tiger.jpg"></li></ol>]]></content>
       
       
       <categories>
           
-          <category> 读书 </category>
+          <category> 读书 - help </category>
           
       </categories>
       
@@ -111,11 +111,33 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<p>以后可能会加入新元素</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
       
     </entry>
     
@@ -133,33 +155,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
       
     </entry>
     
