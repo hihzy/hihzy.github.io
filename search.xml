@@ -8,7 +8,7 @@
       <link href="/2022/11/10/2022-11-10%20%E6%94%B6%E9%9B%86%E4%B8%80%E4%BA%9B%E8%83%8C%E6%99%AF%E5%9B%BE/"/>
       <url>/2022/11/10/2022-11-10%20%E6%94%B6%E9%9B%86%E4%B8%80%E4%BA%9B%E8%83%8C%E6%99%AF%E5%9B%BE/</url>
       
-        <content type="html"><![CDATA[<h1 id="如图"><a href="#如图" class="headerlink" title="如图"></a>如图</h1><p><img src="/images/material/other/item_bz_1.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_2.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_3.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_4.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_5.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_6.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_7.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_8.jpg" alt="用于obsidian的图片"></p><p>2022-11-10 目前通过python批量下图+批量重命名完成的。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="如图"><a href="#如图" class="headerlink" title="如图"></a>如图</h1><p><img src="/images/material/other/item_bz_1.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_2.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_3.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_4.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_5.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_6.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_7.jpg" alt="用于obsidian的图片"><br><img src="/images/material/other/item_bz_8.jpg" alt="用于obsidian的图片"></p><p>2022-11-10 目前通过python批量下图+批量重命名完成的。</p><h1 id="描述怪物难度的图片"><a href="#描述怪物难度的图片" class="headerlink" title="描述怪物难度的图片"></a>描述怪物难度的图片</h1><h2 id="应试刷题-章节"><a href="#应试刷题-章节" class="headerlink" title="应试刷题_章节"></a>应试刷题_章节</h2><p>以下图片分10级,用来描述X章节题目难度.来自怪物猎人的Q版图片,感谢画师为我节约了很多时间.</p><p><img src="/images/material/difficulty/enemy_group_1.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_2.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_3.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_4.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_5.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_6.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_7.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_8.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_9.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_group_10.jpg" alt="用于obsidian的图片"></p><h2 id="单考点-知识点"><a href="#单考点-知识点" class="headerlink" title="单考点/知识点"></a>单考点/知识点</h2><p>由于单个知识点难度较低,所以只分3档：易/中/难<br>不,还是分5档吧<br>0.暂时挑战失败<br>1.经验怪,自动胜利<br>2.稍加练习即可战胜<br>3.有点狡猾,需要观察下他的出招<br>4.勤练即可<br>5.步步为营<br><img src="/images/material/difficulty/enemy_node_1x.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_node_1.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_node_2.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_node_3.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_node_4.jpg" alt="用于obsidian的图片"><br><img src="/images/material/difficulty/enemy_node_5.jpg" alt="用于obsidian的图片"></p>]]></content>
       
       
       
@@ -178,11 +178,11 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
       
     </entry>
     
@@ -200,17 +200,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -222,11 +211,11 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
       
     </entry>
     
@@ -238,6 +227,17 @@
       <url>/music/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
