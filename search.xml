@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>共同学习</title>
+      <link href="/2022/11/22/2022-11-22%20%E6%88%90%E5%8A%9F%E6%8B%9B%E5%8B%9F%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4/"/>
+      <url>/2022/11/22/2022-11-22%20%E6%88%90%E5%8A%9F%E6%8B%9B%E5%8B%9F%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这里展示当前的学习内容-amp-进度"><a href="#这里展示当前的学习内容-amp-进度" class="headerlink" title="这里展示当前的学习内容&amp;进度"></a>这里展示当前的学习内容&amp;进度</h1><h2 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h2><p>目前,我每天的时间规划是3h用于注会,6h用于考研,3h用于复习、整合知识,其余时间自由分配.</p><p>可供选择的学习内容包括:数学(微积分、线性代数、概率论、其他),计算机专业课,python, JAVA(目前尚未开始),英语(初学),税法,税务师,行测和申论(可能)</p><h2 id="学习进度"><a href="#学习进度" class="headerlink" title="学习进度"></a>学习进度</h2><p>当前进度: 刚开始…正在下载学习资料…</p><h3 id="想要学习"><a href="#想要学习" class="headerlink" title="想要学习"></a>想要学习</h3><p>“【22数学】V研客（李永乐、王式安、刘喜波）全程班\01 基础阶段\02 李永乐基础高数”,”【22数学】V研客（李永乐、王式安、刘喜波）全程班\01 基础阶段\03 李永乐基础线代”,”王道计算机2022版本”</p><h3 id="正在学习"><a href="#正在学习" class="headerlink" title="正在学习"></a>正在学习</h3><p>概率论与数理统计1-2节(王式安概率基础)</p><h3 id="已学习"><a href="#已学习" class="headerlink" title="已学习"></a>已学习</h3><p>暂无</p><h1 id="互动"><a href="#互动" class="headerlink" title="互动"></a>互动</h1><p>2022-11-22 成功招募到第一个热爱学习的小伙伴.希望能以同路人的身份同行一段时间.</p><h2 id="input"><a href="#input" class="headerlink" title="input"></a>input</h2><p>input:JAVA、数据库和概率论、法学硕士、CPA</p><h2 id="output"><a href="#output" class="headerlink" title="output"></a>output</h2><p>output:<br>1.先把数学学扎实,预计每天3h学数学。打算先从概率论开始学,先学一周看看情况. #  概率论是大学时候学的,现在忘得差不多了,当时是死记硬背过了期末考,如今要重新学一遍.<br>2.2h用于计算机<br>3.1h用于英语<br>4.1h用于注会网课<br>5.2h用于刷题总结<br>6.以上属于”预算时间”,一切以实际所需为准。</p><p>注：以前没认真准备过考研,不知道学习资料质量好坏,如有建议,欢迎指出.我把自己当作什么都不会的萌新,打算从零开始.</p><hr><h1 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h1><p>将在另一个md文件内存放学习笔记。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 朋友 </tag>
+            
+            <tag> 进度 </tag>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2022-11-10 一些背景图</title>
       <link href="/2022/11/10/2022-11-10%20%E6%94%B6%E9%9B%86%E4%B8%80%E4%BA%9B%E8%83%8C%E6%99%AF%E5%9B%BE/"/>
       <url>/2022/11/10/2022-11-10%20%E6%94%B6%E9%9B%86%E4%B8%80%E4%BA%9B%E8%83%8C%E6%99%AF%E5%9B%BE/</url>
@@ -142,7 +171,7 @@
       <link href="/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
       <url>/2022/11/09/2022-11-09%20%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="首先-建设一个网站需要先准备些什么"><a href="#首先-建设一个网站需要先准备些什么" class="headerlink" title="首先,建设一个网站需要先准备些什么?"></a>首先,建设一个网站需要先准备些什么?</h1><ol><li>购买域名(阿里云)<br> 1a why? 据说是因为国内外服务器速度差异很大,为了网站运行速度,需要国内的域名<br> 1b how? <pre><code> 1b1 我先买了一个1年的域名 www.hihzy.online  1b2 然后利用vercel开展下一步(vercel起到了类似托管的作用,它将git的仓库接手过来,再利用国内域名连接。目前觉得像是一个中间商的形象)</code></pre></li><li>下载安装node.js</li><li>注册github账号<br> 3a新建仓库(这个仓库将会提供博客所需的资源)<pre><code> 3a1编辑git中与云同步相关的设置(有些复杂,无法回忆)</code></pre></li><li>下载安装vscode</li><li></li></ol><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><ol><li><a href="https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0</a></li><li><a href="https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a">https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a</a></li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="首先-建设一个网站需要先准备些什么"><a href="#首先-建设一个网站需要先准备些什么" class="headerlink" title="首先,建设一个网站需要先准备些什么?"></a>首先,建设一个网站需要先准备些什么?</h1><ol><li>购买域名(阿里云)<br>1a why? 据说是因为国内外服务器速度差异很大,为了网站运行速度,需要国内的域名<br>1b how?<br>1b1 我先买了一个1年的域名 <a href="http://www.hihzy.online/">www.hihzy.online</a><br>1b2 然后利用vercel开展下一步(vercel起到了类似托管的作用,它将git的仓库接手过来,再利用国内域名连接。目前觉得像是一个中间商的形象)</li><li>下载安装node.js</li><li>注册github账号<br> 3a新建仓库(这个仓库将会提供博客所需的资源)<pre><code> 3a1编辑git中与云同步相关的设置(有些复杂,无法回忆)</code></pre></li><li>下载安装vscode</li><li></li></ol><h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><ol><li><a href="https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0</a></li><li><a href="https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a">https://www.bilibili.com/video/BV1Ke4y1v7Qr/?spm_id_from=333.999.0.0&amp;vd_source=88f84566db812d4abba75d975a626f4a</a></li><li></li></ol><h1 id="以后再补充"><a href="#以后再补充" class="headerlink" title="以后再补充"></a>以后再补充</h1>]]></content>
       
       
       
@@ -178,6 +207,17 @@
     
     
     <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -189,20 +229,20 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>Gallery</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="画廊初心"><a href="#画廊初心" class="headerlink" title="画廊初心"></a>画廊初心</h1><p>初心:为了自己安全高效地调用在线图片.为了安全,需要先存储到本地,再上传自己的网页.为了高效,需要分类.<br>2022-11-10 初步探索中,无法做到美观简洁的UI设计,于是先搞个能用的出来,先用着.</p><h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><!-- ![为什么要睡觉](/images/material/library/cover_为什么要睡觉.jpg) --><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h3><p><img src="/images/gallery_life_diary1.jpg" alt="日记封面"><br><img src="/images/material/life/dairy_1.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_2.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_3.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_4.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_5.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_6.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_7.jpg" alt="日记周记封面"></p><h2 id="学习-amp-游戏"><a href="#学习-amp-游戏" class="headerlink" title="学习&amp;游戏"></a>学习&amp;游戏</h2><h3 id="发现敌人"><a href="#发现敌人" class="headerlink" title="发现敌人"></a>发现敌人</h3><p>%%觉得图片有点low了,可以用更好的图片代替怪物难度的提示,但目前还在搜寻中…%%<br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A61a.jpg" alt="经验宝宝"><br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A62.jpg" alt="稍显费力"></p><!-- ![值得一试](/images/material/difficulty/敌人_难度3.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A63a.jpg" alt="开始受苦"></p><!-- ![受苦中](/images/material/difficulty/敌人_难度4.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A65.jpg" alt="看似不可能"></p><!-- ![与其共舞](/images/material/difficulty/敌人_难度5a.jpg) --><h3 id="掉落-amp-奖励"><a href="#掉落-amp-奖励" class="headerlink" title="掉落&amp;奖励"></a>掉落&amp;奖励</h3><h2 id="特殊用途"><a href="#特殊用途" class="headerlink" title="特殊用途"></a>特殊用途</h2><h1 id="升级记录"><a href="#升级记录" class="headerlink" title="升级记录"></a>升级记录</h1><ol><li>缺少图标. 为解决这个问题,尝试在<a href="https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html%E5%AF%BB%E6%89%BE%E5%8F%AF%E7%94%A8%E7%9A%84%E5%9B%BE%E6%A0%87%E3%80%82">https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html寻找可用的图标。</a> 很幸运,该网站上的图标icon是可用的. 该图标于右上角的菜单中显示. 令我疑惑的点在于是fa fa还是fa fas呢? 我打算两个都试一试. 结果是都可以.</li></ol>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -227,17 +267,6 @@
       <url>/music/index.html</url>
       
         <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Gallery</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="画廊初心"><a href="#画廊初心" class="headerlink" title="画廊初心"></a>画廊初心</h1><p>初心:为了自己安全高效地调用在线图片.为了安全,需要先存储到本地,再上传自己的网页.为了高效,需要分类.<br>2022-11-10 初步探索中,无法做到美观简洁的UI设计,于是先搞个能用的出来,先用着.</p><h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><!-- ![为什么要睡觉](/images/material/library/cover_为什么要睡觉.jpg) --><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h3><p><img src="/images/gallery_life_diary1.jpg" alt="日记封面"><br><img src="/images/material/life/dairy_1.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_2.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_3.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_4.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_5.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_6.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_7.jpg" alt="日记周记封面"></p><h2 id="学习-amp-游戏"><a href="#学习-amp-游戏" class="headerlink" title="学习&amp;游戏"></a>学习&amp;游戏</h2><h3 id="发现敌人"><a href="#发现敌人" class="headerlink" title="发现敌人"></a>发现敌人</h3><p>%%觉得图片有点low了,可以用更好的图片代替怪物难度的提示,但目前还在搜寻中…%%<br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A61a.jpg" alt="经验宝宝"><br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A62.jpg" alt="稍显费力"></p><!-- ![值得一试](/images/material/difficulty/敌人_难度3.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A63a.jpg" alt="开始受苦"></p><!-- ![受苦中](/images/material/difficulty/敌人_难度4.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A65.jpg" alt="看似不可能"></p><!-- ![与其共舞](/images/material/difficulty/敌人_难度5a.jpg) --><h3 id="掉落-amp-奖励"><a href="#掉落-amp-奖励" class="headerlink" title="掉落&amp;奖励"></a>掉落&amp;奖励</h3><h2 id="特殊用途"><a href="#特殊用途" class="headerlink" title="特殊用途"></a>特殊用途</h2><h1 id="升级记录"><a href="#升级记录" class="headerlink" title="升级记录"></a>升级记录</h1><ol><li>缺少图标. 为解决这个问题,尝试在<a href="https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html%E5%AF%BB%E6%89%BE%E5%8F%AF%E7%94%A8%E7%9A%84%E5%9B%BE%E6%A0%87%E3%80%82">https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html寻找可用的图标。</a> 很幸运,该网站上的图标icon是可用的. 该图标于右上角的菜单中显示. 令我疑惑的点在于是fa fa还是fa fas呢? 我打算两个都试一试. 结果是都可以.</li></ol>]]></content>
       
     </entry>
     
