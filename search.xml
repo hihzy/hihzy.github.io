@@ -5,8 +5,8 @@
     
     <entry>
       <title>共同学习</title>
-      <link href="/2022/11/22/2022-11-22%20%E6%88%90%E5%8A%9F%E6%8B%9B%E5%8B%9F%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4/"/>
-      <url>/2022/11/22/2022-11-22%20%E6%88%90%E5%8A%9F%E6%8B%9B%E5%8B%9F%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%B0%8F%E4%BC%99%E4%BC%B4/</url>
+      <link href="/2022/11/22/2022-11-22%20Nice%20to%20meet%20you/"/>
+      <url>/2022/11/22/2022-11-22%20Nice%20to%20meet%20you/</url>
       
         <content type="html"><![CDATA[<h1 id="这里展示当前的学习内容-amp-进度"><a href="#这里展示当前的学习内容-amp-进度" class="headerlink" title="这里展示当前的学习内容&amp;进度"></a>这里展示当前的学习内容&amp;进度</h1><h2 id="学习内容"><a href="#学习内容" class="headerlink" title="学习内容"></a>学习内容</h2><p>目前,我每天的时间规划是3h用于注会,6h用于考研,3h用于复习、整合知识,其余时间自由分配.</p><p>可供选择的学习内容包括:数学(微积分、线性代数、概率论、其他),计算机专业课,python, JAVA(目前尚未开始),英语(初学),税法,税务师,行测和申论(可能)</p><h2 id="学习进度"><a href="#学习进度" class="headerlink" title="学习进度"></a>学习进度</h2><p>当前进度: 刚开始…正在下载学习资料…</p><h3 id="想要学习"><a href="#想要学习" class="headerlink" title="想要学习"></a>想要学习</h3><p>“【22数学】V研客（李永乐、王式安、刘喜波）全程班\01 基础阶段\02 李永乐基础高数”,”【22数学】V研客（李永乐、王式安、刘喜波）全程班\01 基础阶段\03 李永乐基础线代”,”王道计算机2022版本”</p><h3 id="正在学习"><a href="#正在学习" class="headerlink" title="正在学习"></a>正在学习</h3><p>概率论与数理统计1-2节(王式安概率基础)</p><h3 id="已学习"><a href="#已学习" class="headerlink" title="已学习"></a>已学习</h3><p>暂无</p><h1 id="互动"><a href="#互动" class="headerlink" title="互动"></a>互动</h1><p>2022-11-22 成功招募到第一个热爱学习的小伙伴.希望能以同路人的身份同行一段时间.</p><h2 id="input"><a href="#input" class="headerlink" title="input"></a>input</h2><p>input:JAVA、数据库和概率论、法学硕士、CPA</p><h2 id="output"><a href="#output" class="headerlink" title="output"></a>output</h2><p>output:<br>1.先把数学学扎实,预计每天3h学数学。打算先从概率论开始学,先学一周看看情况. #  概率论是大学时候学的,现在忘得差不多了,当时是死记硬背过了期末考,如今要重新学一遍.<br>2.2h用于计算机<br>3.1h用于英语<br>4.1h用于注会网课<br>5.2h用于刷题总结<br>6.以上属于”预算时间”,一切以实际所需为准。</p><p>注：以前没认真准备过考研,不知道学习资料质量好坏,如有建议,欢迎指出.我把自己当作什么都不会的萌新,打算从零开始.</p><hr><h1 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h1><p>将在另一个md文件内存放学习笔记。</p>]]></content>
       
@@ -196,22 +196,33 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>Gallery</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="画廊初心"><a href="#画廊初心" class="headerlink" title="画廊初心"></a>画廊初心</h1><p>初心:为了自己安全高效地调用在线图片.为了安全,需要先存储到本地,再上传自己的网页.为了高效,需要分类.<br>2022-11-10 初步探索中,无法做到美观简洁的UI设计,于是先搞个能用的出来,先用着.</p><h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><!-- ![为什么要睡觉](/images/material/library/cover_为什么要睡觉.jpg) --><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h3><p><img src="/images/gallery_life_diary1.jpg" alt="日记封面"><br><img src="/images/material/life/dairy_1.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_2.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_3.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_4.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_5.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_6.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_7.jpg" alt="日记周记封面"></p><h2 id="学习-amp-游戏"><a href="#学习-amp-游戏" class="headerlink" title="学习&amp;游戏"></a>学习&amp;游戏</h2><h3 id="发现敌人"><a href="#发现敌人" class="headerlink" title="发现敌人"></a>发现敌人</h3><p>%%觉得图片有点low了,可以用更好的图片代替怪物难度的提示,但目前还在搜寻中…%%<br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A61a.jpg" alt="经验宝宝"><br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A62.jpg" alt="稍显费力"></p><!-- ![值得一试](/images/material/difficulty/敌人_难度3.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A63a.jpg" alt="开始受苦"></p><!-- ![受苦中](/images/material/difficulty/敌人_难度4.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A65.jpg" alt="看似不可能"></p><!-- ![与其共舞](/images/material/difficulty/敌人_难度5a.jpg) --><h3 id="掉落-amp-奖励"><a href="#掉落-amp-奖励" class="headerlink" title="掉落&amp;奖励"></a>掉落&amp;奖励</h3><h2 id="特殊用途"><a href="#特殊用途" class="headerlink" title="特殊用途"></a>特殊用途</h2><h1 id="升级记录"><a href="#升级记录" class="headerlink" title="升级记录"></a>升级记录</h1><ol><li>缺少图标. 为解决这个问题,尝试在<a href="https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html%E5%AF%BB%E6%89%BE%E5%8F%AF%E7%94%A8%E7%9A%84%E5%9B%BE%E6%A0%87%E3%80%82">https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html寻找可用的图标。</a> 很幸运,该网站上的图标icon是可用的. 该图标于右上角的菜单中显示. 令我疑惑的点在于是fa fa还是fa fas呢? 我打算两个都试一试. 结果是都可以.</li></ol>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
       
     </entry>
     
@@ -229,11 +240,11 @@
     
     
     <entry>
-      <title>Gallery</title>
-      <link href="/gallery/index.html"/>
-      <url>/gallery/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h1 id="画廊初心"><a href="#画廊初心" class="headerlink" title="画廊初心"></a>画廊初心</h1><p>初心:为了自己安全高效地调用在线图片.为了安全,需要先存储到本地,再上传自己的网页.为了高效,需要分类.<br>2022-11-10 初步探索中,无法做到美观简洁的UI设计,于是先搞个能用的出来,先用着.</p><h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><!-- ![为什么要睡觉](/images/material/library/cover_为什么要睡觉.jpg) --><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><h3 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h3><p><img src="/images/gallery_life_diary1.jpg" alt="日记封面"><br><img src="/images/material/life/dairy_1.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_2.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_3.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_4.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_5.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_6.jpg" alt="日记周记封面"><br><img src="/images/material/life/dairy_7.jpg" alt="日记周记封面"></p><h2 id="学习-amp-游戏"><a href="#学习-amp-游戏" class="headerlink" title="学习&amp;游戏"></a>学习&amp;游戏</h2><h3 id="发现敌人"><a href="#发现敌人" class="headerlink" title="发现敌人"></a>发现敌人</h3><p>%%觉得图片有点low了,可以用更好的图片代替怪物难度的提示,但目前还在搜寻中…%%<br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A61a.jpg" alt="经验宝宝"><br><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A62.jpg" alt="稍显费力"></p><!-- ![值得一试](/images/material/difficulty/敌人_难度3.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A63a.jpg" alt="开始受苦"></p><!-- ![受苦中](/images/material/difficulty/敌人_难度4.jpg) --><p><img src="/images/material/difficulty/%E6%95%8C%E4%BA%BA_%E9%9A%BE%E5%BA%A65.jpg" alt="看似不可能"></p><!-- ![与其共舞](/images/material/difficulty/敌人_难度5a.jpg) --><h3 id="掉落-amp-奖励"><a href="#掉落-amp-奖励" class="headerlink" title="掉落&amp;奖励"></a>掉落&amp;奖励</h3><h2 id="特殊用途"><a href="#特殊用途" class="headerlink" title="特殊用途"></a>特殊用途</h2><h1 id="升级记录"><a href="#升级记录" class="headerlink" title="升级记录"></a>升级记录</h1><ol><li>缺少图标. 为解决这个问题,尝试在<a href="https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html%E5%AF%BB%E6%89%BE%E5%8F%AF%E7%94%A8%E7%9A%84%E5%9B%BE%E6%A0%87%E3%80%82">https://www.runoob.com/font-awesome/fontawesome-icons-filetype.html寻找可用的图标。</a> 很幸运,该网站上的图标icon是可用的. 该图标于右上角的菜单中显示. 令我疑惑的点在于是fa fa还是fa fas呢? 我打算两个都试一试. 结果是都可以.</li></ol>]]></content>
+        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
       
     </entry>
     
@@ -256,17 +267,6 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
       
     </entry>
     
