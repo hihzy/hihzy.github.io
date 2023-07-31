@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>私人性质的日常生活问题整理</title>
+      <link href="/2023/08/01/2023-08-01%20%E5%AF%B9%E7%A7%81%E4%BA%BA%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/"/>
+      <url>/2023/08/01/2023-08-01%20%E5%AF%B9%E7%A7%81%E4%BA%BA%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E5%88%86%E7%B1%BB/</url>
+      
+        <content type="html"><![CDATA[<h1 id="外表"><a href="#外表" class="headerlink" title="外表"></a>外表</h1><ol><li>近期头发长了，在考虑留长发还是剪短发。个人感觉留长发可以增加气质，更好看些。剪短发可以看着更加清爽、干净。不知道选哪个更好。 / 2023-08-01<br><img src="/images/20230801060742.jpg"></li></ol><h1 id="内在"><a href="#内在" class="headerlink" title="内在"></a>内在</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 - 私人 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>book_内在动机_碎片01</title>
       <link href="/2022/11/23/book_%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/"/>
       <url>/2022/11/23/book_%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/</url>
@@ -176,11 +201,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>Tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -198,11 +223,11 @@
     
     
     <entry>
-      <title>Tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}]]></content>
       
     </entry>
     
