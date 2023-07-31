@@ -29,7 +29,7 @@
     
     
     <entry>
-      <title>book_内在动机_碎片01</title>
+      <title>book_内在动机</title>
       <link href="/2022/11/23/book_%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/"/>
       <url>/2022/11/23/book_%E5%86%85%E5%9C%A8%E5%8A%A8%E6%9C%BA/</url>
       
@@ -157,11 +157,11 @@
     
     
     <entry>
-      <title>Categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
       
     </entry>
     
@@ -190,31 +190,20 @@
     
     
     <entry>
-      <title>About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>2022-11-10 08:37:00 期待以后会新加入新元素</p><h1 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h1><h2 id="v1-0"><a href="#v1-0" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:2022-11-09<br>变动理由:在v1.0中的目标是建设一个能用的、最简可行的网站。今天新建了个人博客网站 <a href="https://www.hihzy.online/">https://www.hihzy.online/</a> ,将github作为云仓库,可以利用vercel同步(本地文件+git仓库+个人博客网站).目标是隔两星期或月末进行一次同步,可以作为思路复盘的小工具.</p><h2 id="v1-1"><a href="#v1-1" class="headerlink" title="v1.1"></a>v1.1</h2><p>修改时间:2022-11-09<br>变动理由:确认了搭建网站的初心,梳理个人思路,分享读书笔记。想要将平时阅读文献后的想法串联起来，将文献笔记整合成有价值的永久笔记。个人博客提供了一个很好的空间,有以下好处:1.所有权归自己,2.可以在其他地方复习回忆自己的笔记,3.将本地的图片夹上传后,可以在其他地方调用线上地址的图片,可以作为obsidian里的笔记封面,为此下一步我需要新建一个”画廊”功能.</p><h2 id="v1-1-1"><a href="#v1-1-1" class="headerlink" title="v1.1.1"></a>v1.1.1</h2><p>修改时间:2022-11-09<br>变动理由:知晓了如何在blog(md文档)中插入图片.</p><h2 id="v1-1-2"><a href="#v1-1-2" class="headerlink" title="v1.1.2"></a>v1.1.2</h2><p>修改时间:2022-11-10<br>变动理由:新增日夜切换效果图 教程🔗：<a href="https://www.fomal.cc/posts/eec9786.html">https://www.fomal.cc/posts/eec9786.html</a></p><h2 id="v1-0-1"><a href="#v1-0-1" class="headerlink" title="v1.0"></a>v1.0</h2><p>修改时间:<br>变动理由:</p><h2 id="v2-0"><a href="#v2-0" class="headerlink" title="v2.0"></a>v2.0</h2><p>修改时间:未知<br>变动理由:在v2.0中将会新增评论系统,由于这项改变将涉及MongoDB,目前不懂,遂搁置.新增评论系统的好处:1.对自己而言,将起到类似备注的作用.</p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>music</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -228,6 +217,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="移步至bilibili的音乐收藏夹"><a href="#移步至bilibili的音乐收藏夹" class="headerlink" title="移步至bilibili的音乐收藏夹"></a>移步至bilibili的音乐收藏夹</h1><p>🔗<a href="https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create">https://space.bilibili.com/4960552/favlist?fid=1532172152&amp;ftype=create</a></p>]]></content>
       
     </entry>
     
